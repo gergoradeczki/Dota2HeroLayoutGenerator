@@ -3,10 +3,10 @@
 Generates a usable in-game hero layout for Dota 2. Currently at a very early stage in development.
 ### Features
 - config.json - Editing variables
--- Lane Names (Translation Purpose)
--- Thresholds (percentige which under the hero isn't going to be included in the list)
--- Url for data (if Dotabuff changes the url you can manually keep up with it)
--- Order of lanes are interchangable
+    - Lane Names (Translation Purpose)
+    - Thresholds (percentige which under the hero isn't going to be included in the list)
+    - Url for data (if Dotabuff changes the url you can manually keep up with it)
+    - Order of lanes are interchangable
 
 ### How does it work
 0. Reads the config.json file
