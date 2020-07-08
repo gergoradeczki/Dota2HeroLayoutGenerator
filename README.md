@@ -1,6 +1,5 @@
 # Dota 2 Hero Layout Generator
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/gergoradeczki/Dota2HeroLayoutGenerator)
 Generates a usable in-game hero layout for Dota 2. Currently at a very early stage in development.
 ### Features
 - config.json - Editing variables
